@@ -9,3 +9,7 @@ WB04HF123/*
 # -- Templete iwthemes ----------
 html.iwthemes.com/
 html.iwthemes.com/*
+
+# -- Templete homealarms ----------
+homealarms/
+homealarms/*
